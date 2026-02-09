@@ -1,4 +1,4 @@
----
+
 
 # 🚀 Project: TaskFlow AI
 
@@ -8,7 +8,7 @@
 
 TaskFlow is a web-based To-Do application. Unlike a standard list, TaskFlow uses an AI processing layer to automatically tag tasks by category (Work, Personal, etc.) and assign an urgency score (1-5) based on the user's input.
 
----
+
 
 ## 🛠️ Roles & Responsibilities
 
